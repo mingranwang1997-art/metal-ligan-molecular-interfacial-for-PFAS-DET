@@ -1,0 +1,183 @@
+# Page 1
+
+ElectrochemistryCommunications40(2014)49–53
+ContentslistsavailableatScienceDirect
+Electrochemistry Communications
+journal homepage: www.elsevier.com/locate/elecom
+Shortcommunication
+The impact of dissolved reactive gases on platinum dissolution in
+acidic media
+⁎ ⁎
+AngelA.Topalov ,AleksandarR.Zeradjanin,SerhiyCherevko,KarlJ.J.Mayrhofer
+DepartmentofInterfaceChemistryandSurfaceEngineering,Max-Planck-InstitutfürEisenforschungGmbH,Max-Planck-Straße1,40237Düsseldorf,Germany
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Long-term stability of platinum catalysts still represents a massive challenge for applications in energy
+Received31October2013 conversiondeviceslikefuelcells.Oneofthekeyissuesisplatinumdissolutionduringpotentialperturbations
+Receivedinrevisedform4December2013 incorrosiveacidicenvironment.Inordertoimprovetheunderstandingonthecomplexdissolutionprocesses
+Accepted17December2013 attheelectrode–electrolyteinterface,wehavethoroughlyinvestigatedpolycrystallineplatinumbyutilizing
+Availableonline25December2013
+onlinemassspectrometryinparalleltoelectrochemicalexperiments.Inparticular,thefocusofthecurrent
+studyistheimpactofdissolved,reactivegasesonplatinumdissolutioninperchloricacid.Whileoxygenand
+Keywords:
+hydrogendonotalterthebehaviourcomparedtoanelectrolytesaturatedwithaninertgas,carbonmonoxide
+Platinumdissolution
+Catalyststability introducessubstantialalterations.Anodicdissolutionduringtheoxideformationissuppressedinthecaseof
+Massspectrometry CObulkoxidation,however,uponthereductionofthesurfaceinthenegativegoingscantheamountofdissolved
+Electrochemistry Ptisenhancedwithafactorofthreetofourduetoblockageofthereducedsurfacesitesforre-deposition.
+COoxidation ©2013ElsevierB.V.Allrightsreserved.
+1.Introduction Whilethesefindingsobtainedpredominatelyunderinertconditions,
+i.e.argonsaturatedelectrolytes,areinprincipalrepresentativeforthe
+Duetothewidespreaduseofplatinumbasedmaterialsinelectro- dissolutionprocessesatthePtmetal-liquidinterface,additionaleffects
+chemistry, an understanding of the interfacial processes is of high due to dissolved and/or adsorbed reactive gases can play a role for
+relevanceformanyapplications.Whilevariousphenomenaoccurring applications under real operating conditions. Recently for instance
+atthePtsurfacearefundamentallywellstudied,thedissolutionofPt Dubauetal.havedemonstratedthevariationofstructuraldegradation
+duringelectrochemicalexperimentshasreceivedonlylittleattention. mechanismsofPt-basednano-particulatedcatalystsinthepresenceof
+Recently we have succeeded in coupling a micro-electrochemical severaldifferentgases[6].Especiallyforelectrochemicalreactorslike
+scanning flow cell (SFC) with an inductively coupled plasma mass electrolyzersorfuelcells,whereanextendedtriple-phaseboundary
+spectrometer (ICP-MS) that enables an unambiguous analysis of regionbetweengaseous,liquidandsolidphaseisestablished,sucha
+elementsdissolvedintheelectrolytewithhighsensitivity[1].Asa fundamentalunderstandingofthedependenceofcatalystdegradation
+consequence the dissolution of electrode material can be directly andparticularlyPtdissolutiononthereactivegascanbecrucialforthe
+monitoredonlinebythe SFC/ICP-MSasafunction of theelectrode designofthecatalystmaterialandelectrodestructure,aswellasthe
+potentialorcurrentdensity[2].Thistechnicaladvancementhasin optimizationofoperationalconditions.Thus,inthisworkweutilizeour
+particularrevealedthatdissolutionofPtisatransientprocess,induced unique experimental approach to investigate the impact of various
+bybothoxidationandreductionofthesurfaceuponpotentialexcur- gasesdissolvedintheelectrolyteonthedissolutionofpolycrystalline
+sionsabove1.1V ,whilenosteady-statedissolutionoccursbelow platinum.
+RHE
+potentialsofsignificantoxygenevolution[2].The“anodic”dissolution
+duringpositivepotentialsweepsistherebydependingontheinterplay 2.Experimentalsection
+betweenexposureandpassivationparticularlyoflow-coordinatedPt
+on the surface during sub-surface oxidation that can be chemically Themeasurementsareperformedusingamicro-electrochemical
+dissolved.Incontrast,themoresevere“cathodic”dissolutionduring scanningflowcell(SFC)directlyconnectedtoaninductivelycoupled
+negativepotentialscansisdeterminedbytheamountoftheformed plasmamassspectrometer(NexION300×),sothattheelectrochemical
+oxidesandthepotentialscanrateexpressedbythecompetitionbetween andspectrometricsignalsarerecordedinparallel.Thecoupledsystem
+diffusionofionsawayfromthesurfaceandtheirreduction/re-deposition wasdescribedinmoredetailinourpreviousstudies[1,4].Thehardware
+[3]. components are controlled by an in-house programmed LabVIEW
+application[5]andtheexperimentalresultsarepresentedonsynchro-
+nizedtimescales.Apolycrystallineplatinumfoil(99.99%MaTecK)was
+⁎ Correspondingauthors.Tel.:+492116792160;fax:+492116792218.
+usedasaworkingelectrode,andthecontactareawiththeelectrolyte
+E-mailaddresses:topalov@mpie.de(A.A.Topalov),mayrhofer@mpie.de
+(K.J.J.Mayrhofer). wasrestrictedto1.1mm2.Thecounterelectrodeconsistedofathin
+1388-2481/$–seefrontmatter©2013ElsevierB.V.Allrightsreserved.
+http://dx.doi.org/10.1016/j.elecom.2013.12.021
+
+# Page 2
+
+50 A.A.Topalovetal./ElectrochemistryCommunications40(2014)49–53
+graphiterodplacedintheinlettube,aAg/AgClreferenceelectrodewas dissolutionprocessduringsurfaceoxidation,oranindirectinfluenceby
+situatedinthedownstreamtopreventcontaminationswithchlorides restructuringofthesurfaceduringtheprecedingphaseofCOadsorption.
+[2].Allpotentialsarereferredtothereversiblehydrogenscale(RHE), Aqualitativelydifferentpictureisobservedduringthenegative
+determinedindependentlyoneachmeasurementday.Thesolutions potentialsweep,whichshowsanenhancementin dissolution bya
+werefreshlypreparedfromperchloricacid(Suprapur®Merck,b1ppm factorofthreetofour(25and36.6ngcm−2cycle−1)incomparison
+Cl−,i.e.for0.1Mhaslessthanca.0.4μMofCl−)dilutedwithultrapure totheinertgasconditionsasshowninFig.1.Amorecarefulanalysis
+water(18.2MΩ,PureLabPlussystem,Elga)andcontinuouslypurged of the dissolution profile reveals that the onset appears ca. 0.15V
+during the experiments with argon, hydrogen, oxygen or carbon more negative in comparison with the other three analysed gases.
+monoxide(AirLiquide,5.0).Allexperimentswereperformedatroom Having a clear notion that the process of Pt dissolution is strongly
+temperature (ca.295°K).Theelectrodesurface iselectrochemically relatedwiththeprocessofplatinumoxidation[3],weadditionally
+pre-treatedbeforeeachexperimentbypotentialcyclingbetween0.05 monitoredtheinfluenceoftheoverpotentialforoxideformationin
+and1.5V atascanrateof0.2Vs−1. theCOsaturatedelectrolyte,wheretheelectrochemicalsignalisplotted
+RHE
+inFig.2a.Nodissolutionisobservedaslongasthepotentialduringthe
+3.Resultsanddiscussion CVremainsbelowca.1.1V (Fig.2c).Oncethepotentialwindow
+RHE
+is extended above the potential for subsurface oxide formation,
+While our previous conclusions on platinum dissolution were dissolutioncanbedetectedexclusivelyinthecathodicsweep,where
+predominantlybasedontheanalysisoftheinteractionbetweenthePt the corresponding spectrometric signal is presented in Fig. 2b. An
+surface and the electrolyte, the influence of the reactive gases like increaseinthepositivepotentiallimitcausesanincreaseintheamount
+hydrogen,oxygenandcarbon-monoxideonPtdissolutionwassofar ofPtdissolution,whichcanberelatedtotheformationofmoresub-
+notconsidered.Takingintoconsiderationthattheadsorptionofthese surfaceoxidesasinthecaseofinertgases.Forallpotentialwindows,
+gases can however be competitive with the adsorption of oxygen theonsetofthedissolutioninthecathodicpotentialsweepisobserved
+containing species originating from the solvent itself, and thus atca.0.85V inparallelwithadecreasingoxidationcurrent.Atthis
+RHE
+potentiallyinterferewithprocessesatthesurfaceofPtlikepassivation, potentialCOstronglyadsorbsonreducedPtsitesagainandbeginsto
+dissolutionand/orsurfacereconstruction. blockfurtherbulkCOoxidation.Itseemsthatinadditiontheadsorbed
+Acomparisonbetweenthedissolutionprofilesin0.1Mperchloric COpreventsthere-depositionofdissolvedPt-ionsthatleadstothe
+acid continuously saturated with one of the four different gases observedenhanced dissolution signal compared to theother gases
+(Ar,H ,O orCO)ispresentedinFig.1.Thedissolutionbehaviour undersimilarconditions.
+2 2
+of Pt is practically identical for the oxygen, hydrogen and argon InordertoshedmorelightontheimpactofCOonPtdissolution,we
+saturatedsolutions.Forallthreementionedgases,dissolutionappears alsofollowedanexperimentalprotocolwithdynamicgasexchange
+in the anodic and cathodic branch of the voltammogram, where (Fig.3).Asshownalreadyabove,theamountofPtdissolvedduring
+the cathodic one contributes significantly more to the overall theCVinCO-saturatedelectrolyteisalmostbyafactoroffourlarger
+dissolved amount of 6.9±0.3ngcm−2cycle−1 (up to 1.55V ) than during theinitial CVin argon, whiletheanodic dissolution is
+RHE
+and 8.0±0.2ngcm−2cycle−1 (up to 1.65V ). Interestingly, the suppressed.Interestingly,thefirstCVuponreturningtoargonpurging
+RHE
+spectrometricresponseinthepresenceofcarbonmonoxideisquite again (at ca. 5500s), which actually represents a CO-stripping
+different.Inthepositivepotentialscan,evenafteroxidationoftheCO experiment, induces less dissolution compared to the initial CV in
+adlayer at around 0.85V and consequent bulk CO oxidation, the argon(atca.200s).Theanodicdissolutionisalsosuppressedinthe
+RHE
+dissolution remains below the detection limit of ca. 10ppt. This CVatca.5500s,whereCOwasinitiallystilladsorbedonthesurface.
+behaviour could be either a direct influence of dissolved CO on the Thissuggeststhatthemorphologyandsurfacereorganisationinduced
+Fig.1.a)Appliedexperimentalsequenceconsistingoftwocyclicvoltammograms(CV)inthepotentialrangefrom0.1upto1.55andfrom0.1upto1.65VRHEwithascanrateof0.01Vs−1;
+b)Thecorrespondingdissolutionprofilesin0.1MHClO4saturatedandcontinuouslypurgedwithAr,H2,O2orCO,allonthesametimescale.
+
+# Page 3
+
+A.A.Topalovetal./ElectrochemistryCommunications40(2014)49–53 51
+Fig.2.a)Cyclicvoltammogramsrecordedin0.1MHClO4saturatedwithCOwithascanrateof0.01Vs−1applyingdifferentupperpotentiallimits;b)Thedissolutionprofileinthe
+negativegoingsweepofthecyclicvoltammogram(nodissolutionisobservedinthepositivescandirection);c)totalamountofdissolvedPtpercycleforthecorrespondingupperpotential
+limit.
+
+# Page 4
+
+52 A.A.Topalovetal./ElectrochemistryCommunications40(2014)49–53
+Fig.3.DissolutionofPtduringanexperimentalsequencewithchanginggaspurgingasindicatedbythetopbar(Ar–CO–Ar).Theappliedpotentialprofileisshownabovethedissolution
+ratemeasuredbytheICP-MSonthesametimeaxis.
+byCOareofhighimportance.Namely,itiswellknownfromlitera- 4.Conclusion
+turethatCOcanincreasesurfacePtdiffusionandthusminimize
+theamountoflow-coordinatedsites[7,8].Inreturnthisindicates We present a compact study on Pt dissolution during potential
+thatthedissolutionduringpositivepotentialscansisindeedstrongly cyclinginacidicelectrolyteinthepresenceofvariousreactivegases.
+dependentontheavailabilityofsuchsitesintheinitialstate.Note Argon,hydrogenandoxygendonotinterferewiththefundamental
+thattheanodicdissolutionappearsagaininaconsecutivescan,as processes of surface oxidation/reduction and thus the consequent
+thesurfacebecomes rougherdueto thepotential cycling.Inthe dissolution.However,certainpeculiaritiesareobservedinthecaseof
+cathodicdissolutionintheCO-strippingexperimentatca.5500s aCOsaturatedelectrolyte,whichprovidesadditionalimportantinsights
+COisabsentinsolutionandthereforedoesnothinderthedirect intotheplatinumdissolutionmechanism.AdsorbedCOleadstoare-
+oxidereductionandre-deposition[3].Thustheamountofdissolved structuringofthePtsurfacethatreducestheamountofavailablelow-
+PtsignificantlydecreasesincomparisontothecaseofCObulkoxidation coordinatedsites,whichcanberelatedtotheinhibitionofdissolution
+(atca.1600s),andisevenlowerthanintheinitialCVinargondueto in the positive going scan. In contrast, adsorbed CO enhances the
+lessdefectsites. amountof Ptdissolved in thenegativegoingscan,where itblocks
+TheexperimentalresultsrevealthatCOhasastronginfluenceonthe reducedPtsitesandpreventsre-depositionofdissolvedPt.Overallthe
+stateofthePtsurfaceduringpotentialcyclingandconsequentlyonPt amountofdissolvedPtdrasticallyincreaseswhenCOisintroduced.
+dissolution. From a practical point of view, the overall enhanced
+dissolutioninthepresenceofCOcanbeanissueforthestabilityofPt
+Acknowledgement
+based catalysts as used for instance in low-temperature fuel cells.
+Namely,hydrogenusedasafueliscurrentlyobtainedpredominantly
+WethanktheBMBF(Kz:033RC1101A)forthefinancialsupport.
+inreformingreactorsfromhydrocarbonsandthusalwayscontains
+residualCO.Moreover,crossoverofmethanolfuelfromtheanodeand
+itsoxidationcancertainlyinfluencelong-termstabilityofPtcatalysts
+References
+fortheoxygenreduction.Furthermore,enhanceddissolutioninthe
+presenceofadsorbedCOhasanimportantconsequenceononeofthe [1] S.O.Klemm,A.A.Topalov,C.A.Laska,K.J.J.Mayrhofer,Couplingofahighthroughput
+basicmethodsinPtcatalystresearch,i.e.theestimationoftheactive microelectrochemicalcellwithonlinemultielementaltraceanalysisbyICP-MS,
+Electrochem.Commun.13(2011)1533–1535.
+surfaceareabyCO-stripping[9].Inadditiontotheclearadvantagesin
+[2] A.A.Topalov,I.Katsounaros,M.Auinger,S.Cherevko,J.C.Meier,S.O.Klemm,etal.,
+accuracycomparedtothemethodbasedonunderpotentiallyadsorbed Dissolutionofplatinum:limitsforthedeploymentofelectrochemicalenergy
+hydrogen(H )particularlyforPtalloys[10,11],COstrippingalso
+conversion?Angew.Chem.Int.Ed.51(2012)12613–12615.
+upd [3] A.A.Topalov,S.Cherevko,A.R.Zeradjanin,J.C.Meier,I.Katsounaros,K.J.J.Mayrhofer,
+seemstoinducelessdissolutionandcanthereforebeappliedquite
+Towardsacomprehensiveunderstandingofplatinumdissolutioninacidicmedia,
+reliablyalsorepeatedlyduringdegradationprotocols. Chem.Sci.5(2014)631–638.
+
+# Page 5
+
+A.A.Topalovetal./ElectrochemistryCommunications40(2014)49–53 53
+[4] S.O.Klemm,A.Karschin,A.K.Schuppert,A.A.Topalov,A.M.Mingers,I.Katsounaros, [8] J.Inukai,D.A.Tryk,T.Abe,M.Wakisaka,H.Uchida,M.Watanabe,DirectSTMeluci-
+et al., Time and potential resolved dissolution analysis of rhodium using a dationoftheeffectsofatomic-levelstructureonPt(111)electrodesfordissolvedCO
+microelectrochemicalflowcellcoupledtoanICP-MS,J.Electroanal.Chem.677–680 oxidation,J.Am.Chem.Soc.135(2013)1476–1490.
+(2012)50–55. [9] K.J.J.Mayrhofer,D.Strmcnik,B.B.Blizanac,V.Stamenkovic,M.Arenz,N.M.Markovic,
+[5] A.A.Topalov,I.Katsounaros,J.C.Meier,S.O.Klemm,K.J.J.Mayrhofer,Development Measurementofoxygenreductionactivitiesviatherotatingdiscelectrodemethod:
+andintegrationofaLabVIEW-basedmodulararchitectureforautomatedexecution from Pt model surfaces to carbon-supported high surface area catalysts,
+ofelectrochemicalcatalysttesting,Rev.Sci.Instrum.82(2011)114103. Electrochim.Acta53(2008)3181–3188.
+[6] L.Dubau,L.Castanheira,G.Berthomé,F.Maillard,Anidentical-locationtrans- [10] D.F.vanderVliet,C.Wang,D.Li,A.P.Paulikas,J.Greeley,R.B.Rankin,etal.,Uniqueelec-
+missionelectronmicroscopystudyonthedegradationofPt/Cnanoparticles trochemicaladsorptionpropertiesofPt-skinsurfaces,Angew.Chem.Int.Ed.51(2012)
+underoxidizing,reducingandneutralatmosphere,Electrochim.Acta110 3139–3142.
+(2013)273–281. [11] L.Dubau,F.Maillard,M.Chatenet,J.André,E.Rossinot,Nanoscalecompositional
+[7] D.S.Strmcnik,D.V.Tripkovic,D.vanderVliet,K.-C.Chang,V.Komanicky,H.You, changesandmodificationofthesurfacereactivityofPt3Co/Cnanoparticlesduring
+etal.,UniqueactivityofplatinumadislandsintheCOelectrooxidationreaction, proton-exchangemembranefuelcelloperation,Electrochim.Acta56(2010)
+J.Am.Chem.Soc.130(2008)15332–15339. 776–783.
+
